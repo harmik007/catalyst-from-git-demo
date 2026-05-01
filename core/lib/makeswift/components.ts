@@ -1,4 +1,4 @@
-// import './components/accordion/register';
+import './components/accordion/register';
 import './components/button-link/register';
 import './components/card/register';
 import './components/card-carousel/register';
